@@ -1,6 +1,6 @@
 # Analysis Report on Brazilian E-Commerce Data from Olist
 
-In this Data Analysis project, I sought utilise publicly available datasets containing Brazilian online retailer – Olist - Company financial information. Information was used to generate important observations and intertwined with recommendations in certain sections
+In this Data Analysis project, I sought utilise publicly available datasets containing Brazilian online retailer – Olist - Company financial information. Information was used to generate important observations and intertwined with recommendations in certain sections. Datasets were available in CSV format and processed and interpreted using Microsoft Power BI.
 
 <h2>Section 1 - Sales Trend Overview</h2>
 
