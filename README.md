@@ -12,7 +12,7 @@ The sales trend here is pretty stable and predictable, and unsurprisingly has be
 
 When it comes to forecasting the future of Olists sales trend in more general terms, it is safe to assume that this will remain stable and in a state of upwards growth. 
 
-To give an example why, <i>according to recent Reuters article</i>, Olist themselves have made it known that over time and with additional investment, they aspire to diversify their services by including financial services, acquiring smaller companies and expanding their operations abroad in Mexico. Through this particular endeavour, Olist will certainly look to benefit greatly from diversification and fuelling further sales growth.  
+To give an example why, <i>according to a recent Reuters article</i>, Olist themselves have made it known that over time and with additional investment, they aspire to diversify their services by including financial services, acquiring smaller companies and expanding their operations abroad in Mexico. Through this particular endeavour, Olist will certainly look to benefit greatly from diversification and fuelling further sales growth.  
 
 In addition to diversification, Olist should certainly look to build on their existing strengths by addressing 2 key drivers behind their sales growth – one being their capacity & ability to process customer purchases and the other being prioritising the sales of certain types of products over others.
 
@@ -36,7 +36,6 @@ Having said this, a good recommendation here would be to allow visitors to the p
 Another good recommendation also includes offering discounts for purchases made through the Boleto. Through this approach Olist products become increasingly accessible to customers who do not have a bank account and only rely on Boleto to make purchases on E-Commerce platforms. 
 
 Through optimising the way in which Olist collects payments, this will help facilitate additional revenue capture as the company grows larger in the south American market and gains more customers in the coming years. 
-
 
 <h3>Second key driver – Product Categories</h3>
 
